@@ -1,0 +1,9 @@
+names:
+  0: people
+  1: buses
+  2: cars
+  3: motorcycles
+  4: road signs
+  5: traffic light
+path: .
+train: train.txt
