@@ -130,7 +130,7 @@ Document the project, annotation methodology, quality-control process, dataset i
 A practical image annotation project involving the annotation of 50 street-scene images using CVAT.
 
 
-**[View Project 01 →](https://github.com/ChisomEmeghebo/Computer-Vision-Data-Annotation-Portfolio/tree/main/Project%2001-Street-scene-object-detection)**
+**[View Project 01 →](https://github.com/ChisomEmeghebo/Computer-Vision-Data-Annotation-Portfolio-/tree/main/Project%2001-Street-scene-object-detection)**
 
 ---
 
